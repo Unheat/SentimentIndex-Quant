@@ -1,5 +1,5 @@
 # AlphaSift: Quantitative NLP Classifier for Retail Financial Discourse
-
+demo : https://youtu.be/717oAmUe1is
 ## Overview
 AlphaSift is an end-to-end Natural Language Processing pipeline designed to classify retail investment discourse on Reddit into actionable categories. The project ingests raw social media data, pre-processes the text, and fine-tunes a `distilbert-base-uncased` transformer model to differentiate between hard financial research, sentiment-based predictions, and general internet noise.
 
