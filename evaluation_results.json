@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.6154,
+  "finetuned_accuracy": 0.5897,
+  "improvement": -0.0256,
+  "test_set_size": 39,
+  "label_map": {
+    "DD_RESEARCH": 0,
+    "VIBE_HYPOTHESIS": 1,
+    "NOISE_MEME": 2
+  },
+  "model": "distilbert-base-uncased"
+}
